@@ -15,6 +15,8 @@ project does, how to use it and anything else they may need to know.
 
 
 2. EC2 instance Domain name
+
+sunki.zapto.org 
    
 <img width="1440" alt="스크린샷 2024-04-26 오전 9 40 28" src="https://github.com/iot201-2024-Lee-Sun-Ki/Midterm/assets/141006849/bf865477-6568-4273-8336-c98718578798">
 
