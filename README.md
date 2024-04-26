@@ -6,6 +6,9 @@ Midterm
 This is your project's README.md file. It helps users understand what your
 project does, how to use it and anything else they may need to know.
 
+이름:이선기
+학번:2018146017
+
 1. AWS Clean up Screen shots
  <img width="1440" alt="스크린샷 2024-04-26 오전 9 36 21" src="https://github.com/iot201-2024-Lee-Sun-Ki/Midterm/assets/141006849/c5c1a950-4d54-4a4d-bd53-dc551c2a7761">
 <img width="1440" alt="스크린샷 2024-04-26 오전 9 46 02" src="https://github.com/iot201-2024-Lee-Sun-Ki/Midterm/assets/141006849/dfce953c-407a-4b12-a7a7-55643d2d1b36">
